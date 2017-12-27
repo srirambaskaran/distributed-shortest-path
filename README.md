@@ -15,4 +15,4 @@ The algorithm is an efficient way to compute the all-pair shortest paths using m
 
 The given implementation uses similar concept using pregal API in graphX to pass messages across different vertices. 
 
-A more detailed note is given [here](https://gist.github.com/srirambaskaran/573927ee01f3673d3a9182bacbc9ed39). Source code is given at `src/`.
+A more detailed note is given [here](https://gist.github.com/srirambaskaran/573927ee01f3673d3a9182bacbc9ed39). Source code is given in `APSP.scala`.
